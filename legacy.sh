@@ -35,7 +35,7 @@ GGGCCCTCC,Normal,*2D/2xN,1
 GGGCCGTCC,Normal,*2A/*35/*2xN,1
 GGGCCGTCA,Indeterminado,,
 GGGCTCTCC,Reduzida,*17/*17xN,0.5
-GGGTCCCCC,Reduzida,*10/*10x2,0.5
+GGGTCCCCC,Reduzida,*10/*10x2,0.25
 GGACCCTCC,Reduzida,*29,0.5
 GAGCCCTCC,Reduzida,*41,0.5
 AGGTCCCCC,Nula,*4/*4x2,0
